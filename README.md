@@ -1,6 +1,6 @@
 # Advertising
 
-# "Advertising" dataset contains information about advertising spends across three different media channels (TV, Radio, and Newspaper) and their corresponding sales figures. Columns Description:
+"Advertising" dataset contains information about advertising spends across three different media channels (TV, Radio, and Newspaper) and their corresponding sales figures. Columns Description:
 
     TV: The amount of money spent on TV advertising for a particular product in thousands of dollars.
     Radio: The amount of money spent on Radio advertising for the same product in thousands of dollars.
